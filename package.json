@@ -1,0 +1,23 @@
+{
+  "name": "express-students-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHood15/Express-students-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHood15/Express-students-app/issues"
+  },
+  "homepage": "https://github.com/MHood15/Express-students-app#readme"
+}
